@@ -347,6 +347,7 @@ public class Utlit extends javax.swing.JFrame {
         mySetVirki.setVirki('*');
         String Enternumber = jUtkoma.getText()+jMargfoldun.getText();
         jUtkoma.setText(Enternumber);
+        //ldfkjædfk
     }//GEN-LAST:event_jMargfoldunActionPerformed
 
     //Deilingar takki
